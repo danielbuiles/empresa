@@ -85,8 +85,5 @@ public class Empleado {
         this.direccion = direccion;
     }
     //fin de getters and setters
-    
-    public double calcularSalario(){
-        return((this.salario-this.salario*0.15)*12);
-    }
+     
 }
