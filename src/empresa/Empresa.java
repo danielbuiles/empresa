@@ -5,6 +5,8 @@
  */
 package empresa;
 
+import empleado.Empleado;
+
 /**
  *
  * @author 503
@@ -16,7 +18,7 @@ public class Empresa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        Empleado empleado =new Empleado();
     }
     
 }
